@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project path="device/sony/pdx223" name="sony-nagara/android_device_sony_pdx223" revision="staging/lineage-21" />
+  <project path="device/sony/sm8450-common" name="sony-nagara/android_device_sony_sm8450-common" revision="staging/lineage-21" />
+  <project path="hybris/hybris-boot" name="sailfishos-sony-nagara/hybris-boot" revision="master" />
+  <project path="kernel/sony/sm8450" name="sony-nagara/android_kernel_sony_sm8450" revision="lineage-20" />
+  <project path="kernel/sony/sm8450-devicetrees" name="sony-nagara/android_kernel_sony_sm8450-devicetrees" revision="lineage-21" />
+  <project path="kernel/sony/sm8450-modules" name="sony-nagara/android_kernel_sony_sm8450-modules" revision="lineage-20" />
+</manifest>
