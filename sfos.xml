@@ -8,4 +8,5 @@
   <project path="hybris/mer-kernel-check" name="mer-hybris/mer-kernel-check" revision="master" />
   <project sync-s="true" path="hybris/mw/libhybris" name="mer-hybris/libhybris" revision="master" />
   <project sync-s="true" path="hybris/mw/parse-android-dynparts" name="mlehtima/parse-android-dynparts" revision="master" />
+  <project path="rpm" name="sailfishos-sony-nagara/droid-hal-sony-nagara" revision="main" />
 </manifest>
