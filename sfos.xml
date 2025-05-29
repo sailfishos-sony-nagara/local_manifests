@@ -6,7 +6,7 @@
   <project path="external/selinux_stubs" name="mer-hybris/android_external_selinux_stubs" revision="hybris-21.0" />
   <project path="hybris-patches" name="mer-hybris/hybris-patches" revision="hybris-21.0" />
   <project path="hybris/mer-kernel-check" name="mer-hybris/mer-kernel-check" revision="master" />
-  <project sync-s="true" path="hybris/mw/libhybris" name="mer-hybris/libhybris" revision="master" />
+  <project sync-s="true" path="hybris/mw/libhybris" name="sailfishos-sony-nagara/libhybris-packaging" revision="colors" />
   <project sync-s="true" path="hybris/mw/parse-android-dynparts" name="mlehtima/parse-android-dynparts" revision="master" />
   <project path="rpm" name="sailfishos-sony-nagara/droid-hal-sony-nagara" revision="main" />
 </manifest>
