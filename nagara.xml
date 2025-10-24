@@ -11,5 +11,5 @@
   <project path="kernel/sony/sm8450" name="sony-nagara/android_kernel_sony_sm8450" revision="lineage-20" />
   <project path="kernel/sony/sm8450-devicetrees" name="rinigus/android_kernel_sony_sm8450-devicetrees" revision="lineage-20" />
   <project path="kernel/sony/sm8450-modules" name="sony-nagara/android_kernel_sony_sm8450-modules" revision="lineage-20" />
-  <project path="kernel/sony/sm8450-devicetrees-blobs" name="sony-nagara/ android_kernel_sony_sm8450-devicetrees-blobs" revision="lineage-20" />
+  <project path="kernel/sony/sm8450-devicetrees-blobs" name="sony-nagara/android_kernel_sony_sm8450-devicetrees-blobs" revision="lineage-20" />
 </manifest>
