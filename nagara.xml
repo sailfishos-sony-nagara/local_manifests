@@ -7,7 +7,6 @@
   <project path="vendor/sony/pdx224" name="sony-nagara/proprietary_vendor_sony_pdx224" revision="lineage-21" />
   <project path="vendor/sony/sm8450-common" name="sony-nagara/proprietary_vendor_sony_sm8450-common" revision="lineage-21" />
   <project path="hardware/sony" remote="github" name="LineageOS/android_hardware_sony" revision="lineage-21" />
-  <project path="hybris/hybris-boot" name="sailfishos-sony-nagara/hybris-boot" revision="master" />
   <project path="kernel/sony/sm8450" name="sony-nagara/android_kernel_sony_sm8450" revision="lineage-20" />
   <project path="kernel/sony/sm8450-devicetrees" name="rinigus/android_kernel_sony_sm8450-devicetrees" revision="lineage-20" />
   <project path="kernel/sony/sm8450-modules" name="sony-nagara/android_kernel_sony_sm8450-modules" revision="lineage-20" />
