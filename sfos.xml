@@ -8,6 +8,7 @@
   <project path="hybris-patches" name="mer-hybris/hybris-patches" revision="hybris-21.0" />
   <project path="hybris/mer-kernel-check" name="mer-hybris/mer-kernel-check" revision="master" />
   <project path="hybris/mw/droid-hal-vendor-dlkm" name="sailfishos-sony-nagara/droid-hal-vendor-dlkm" revision="main" />
+  <project path="hybris/mw/hwcrypt" name="sailfishos-open/hwcrypt" revision="keystore2" />
   <project path="hybris/mw/keystore_early_boot" name="sailfishos-sony-nagara/keystore_early_boot" revision="main" />
   <project sync-s="true" path="hybris/mw/libhybris" name="sailfishos-sony-nagara/libhybris-packaging" revision="colors" />
   <project sync-s="true" path="hybris/mw/parse-android-dynparts" name="mlehtima/parse-android-dynparts" revision="master" />
