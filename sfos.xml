@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project path="dhd" name="mer-hybris/droid-hal-device" revision="master" />
+  <!-- Replace upstream dhd until https://github.com/mer-hybris/droid-hal-device/pull/345 is fixed
+  or installable_zip will be set to 1 in sailfishos-sony-nagara/droid-hal-sony-nagara -->
+  <project path="dhd" name="sailfishos-sony-nagara/droid-hal-device" revision="installable_zip" />
+  <!-- <project path="dhd" name="mer-hybris/droid-hal-device" revision="master" /> -->
+  
   <project path="external/droidmedia" name="sailfishos/droidmedia" revision="master" />
   <project path="external/android_vendor_halium_hardware" name="Halium/android_vendor_halium_hardware" revision="halium-14.0" />
   <project path="external/busybox" name="mer-hybris/android_external_busybox_prebuilt" revision="master" />
